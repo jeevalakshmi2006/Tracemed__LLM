@@ -1,0 +1,5 @@
+.env
+utils/__pycache__/
+ui/__pycache__/
+__pycache__/
+*.pyc
